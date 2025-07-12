@@ -5,7 +5,6 @@ Official implementation of the paper:
 
 📄 [Paper Title]: CCRC  
 ✍️ Authors: Jinhong Hua, Xiaoping Wang*, Shuyin Huang, Guojin Zhong, Kaitai Liu, Kai Lu*  
-🏫 Affiliations: Hunan University, Guangxi Minzu University, National University of Defense Technology  
 📅 Conference: [ECAI 2025] (TBD)
 
 > 🚧 The source code and extended datasets will be released shortly. Please stay tuned.
